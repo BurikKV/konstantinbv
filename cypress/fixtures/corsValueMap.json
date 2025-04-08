@@ -1,0 +1,14 @@
+{
+    "Electronic Mail": "EMAIL",
+    "Facsimile": "FAX",
+    "Personal visit": "INTERVIEW",
+    "Mail": "LETTER",
+    "Other": "OTHER",
+    "Telephone": "TELEPHONE",
+    "Call Placed": "CALL PLACED",
+    "Interview Related": "CONDUCTED",
+    "Received": "RECEIVED",
+    "Requested": "REQUESTED",
+    "Returned": "RETURNED",
+    "Sent": "SENT"
+  }

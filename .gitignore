@@ -1,0 +1,33 @@
+# Ignore environment files
+.env
+.env.prod
+.env.test
+.env.dev
+!env.sample
+
+# Ignore sensitive files in common
+common/credentials.json
+common/token-store.js
+common/token.json
+
+# Cypress ignored files
+cypress/fixtures/token.json
+cypress/fixtures/tocken.json
+cypress/fixtures/doc.y4m
+cypress/fixtures/photo.y4m
+
+# Ignore Cypress subfolders
+cypress/downloads/
+cypress/e2e/old/
+cypress/e2e/temp/
+cypress/fixtures/dynamic/
+cypress/fixtures/old/
+cypress/screenshots/
+
+# Ignore test reports and logs
+allure-report/
+allure-results/
+results/
+
+# Ignore dependencies
+node_modules/
